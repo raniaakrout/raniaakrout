@@ -17,10 +17,10 @@
 
 I'm a final-year Computer science engineering student at **ENISo, Tunisia** — obsessed with building systems that extract meaning from the messy real world.
 
-- 🔭 Currently building:**RAG systems**, **anomaly detection models** & **AI agents**
-- ⚙️ Exploring: multi-agent orchestration, inference optimization
-- 🔬 Working with: PyTorch, TensorFlow, OpenCV, FastAPI & LLM frameworks
-- 🚀 Goal: Build AI systems that are not only intelligent, but useful, reliable and deployable.
+- Currently building: **RAG systems**, **anomaly detection models** & **AI agents**
+- Exploring: multi-agent orchestration, inference optimization
+- Working with: PyTorch, TensorFlow, OpenCV, FastAPI & LLM frameworks
+- Goal: Build AI systems that are not only intelligent, but useful, reliable and deployable.
 
 <br clear="right"/>
 
@@ -113,7 +113,7 @@ Full multimodal pipeline: audio + vision + text
 🥇  COPX 2.0                   →  1st place — AI + IoT biodiversity protection
 🏆  AI Camera Challenge        →  Emotion detection & customer satisfaction analytics  
 🤖  ENISO IoT Challenge        →  Predictive maintenance system
-📡 Training Manager            →  @ IEEE ENISo Student Branch 
+📡  Training Manager            →  @ IEEE ENISo Student Branch 
 ```
 
 ---
