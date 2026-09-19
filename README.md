@@ -113,7 +113,7 @@ Full multimodal pipeline: audio + vision + text
 🥇  COPX 2.0                   →  1st place — AI + IoT biodiversity protection
 🏆  AI Camera Challenge        →  Emotion detection & customer satisfaction analytics  
 🤖  ENISO IoT Challenge        →  Predictive maintenance system
-📡 Training Manager            →  @ IEEE ENISo Student Branch on met
+📡 Training Manager            →  @ IEEE ENISo Student Branch 
 ```
 
 ---
