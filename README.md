@@ -12,11 +12,10 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=raniaakrout&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4FF" />
 
 ### About me
 
-I'm a final-year AI engineering student at **ENISo, Tunisia** — obsessed with building systems that extract meaning from the messy real world.
+I'm a final-year Computer science engineering student at **ENISo, Tunisia** — obsessed with building systems that extract meaning from the messy real world.
 
 - 🔭 Currently building:**RAG systems**, **anomaly detection models** & **AI agents**
 - ⚙️ Exploring: multi-agent orchestration, inference optimization
@@ -105,19 +104,6 @@ Full multimodal pipeline: audio + vision + text
 
 </div>
 
----
-
-##  GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniaakrout&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raniaakrout&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF" />
-
-</div>
 
 ---
 
@@ -143,6 +129,5 @@ Full multimodal pipeline: audio + vision + text
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
