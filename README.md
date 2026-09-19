@@ -14,7 +14,7 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=raniaakrout&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4FF" />
 
-### 👩‍💻 About me
+### About me
 
 I'm a final-year AI engineering student at **ENISo, Tunisia** — obsessed with building systems that extract meaning from the messy real world.
 
@@ -27,7 +27,7 @@ I'm a final-year AI engineering student at **ENISo, Tunisia** — obsessed with 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -90,7 +90,7 @@ Full multimodal pipeline: audio + vision + text
 
 ---
 
-## 🛠️ My toolkit
+##  My toolkit
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Full multimodal pipeline: audio + vision + text
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Full multimodal pipeline: audio + vision + text
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 ```
 🥇  COPX 2.0                   →  1st place — AI + IoT biodiversity protection
