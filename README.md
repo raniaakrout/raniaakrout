@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-rania--akrout-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rania-akrout-90136128a/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-cyan-n8hs3bo0q2.vercel.app/)
+
 [![Email](https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rania.akrout@eniso.u-sousse.tn)
 
 </div>
